@@ -1,1 +1,1 @@
-Hi this is version- 1 of sample3.txt
+Hi this is version- 1 of sample3.txt from design2 branch
